@@ -1,0 +1,6 @@
+{
+  "extends": "../tsproject.json",
+  "compilerOptions": {
+    "outDir": "../lib/html-utils"
+  }
+}

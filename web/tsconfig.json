@@ -1,0 +1,11 @@
+{
+  "extends": "../tsproject.json",
+  "compilerOptions": {
+    "outDir": "../lib/web",
+    "references": [
+      { "path": "../html-renderer" },
+      { "path": "../json-client" },
+      { "path": "../ui" }
+    ]
+  }
+}

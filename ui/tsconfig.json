@@ -1,0 +1,10 @@
+{
+  "extends": "../tsproject.json",
+  "compilerOptions": {
+    "outDir": "../lib/ui",
+    "references": [
+      { "path": "../json-client" },
+      { "path": "../utilities" }
+    ]
+  }
+}

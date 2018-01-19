@@ -1,0 +1,10 @@
+{
+  "extends": "../tsproject.json",
+  "compilerOptions": {
+    "outDir": "../lib/mobile",
+    "references": [
+      { "path": "../ui" },
+      { "path": "../platform-abstraction" }
+    ]
+  }
+}

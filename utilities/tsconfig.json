@@ -1,0 +1,7 @@
+{
+  "extends": "../tsproject.json",
+  "compilerOptions": {
+    "outDir": "../lib/utilities",
+    "references": []
+  }
+}
