@@ -1,7 +1,7 @@
 {
   "extends": "../tsproject.json",
   "compilerOptions": {
-    "outDir": "../lib/web",
+    "outDir": "../lib/platform-abstraction",
     "references": [
       { "path": "../utilities" }
     ]
