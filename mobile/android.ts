@@ -1,1 +1,1 @@
-export { };
+export const AndroidVersion: string = "StringCheese";
